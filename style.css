@@ -17,15 +17,18 @@ body{
     background-image: url(images/proto\ pic\(2\).png);
     background-size: 95%;
     background-position: center;
+    
 }
 .container{
     padding: 10px 10%;
+    
 }
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    
 }
 
 .logo{
@@ -427,6 +430,9 @@ nav .fas{
 
     .copyright{
         font-size: 14px;
+    }
+    .logo{
+        width: 200px;
     }
 
     
